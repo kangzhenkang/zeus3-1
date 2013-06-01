@@ -24,7 +24,7 @@
 开发中心主要进行任务的调试运行  
 这里的任务，属于文档的一部分，不同的任务类型，通过文档的后缀名来区分  
 如下图所示，通过右键来新建文档，选择相应的文档类型，就会创建相应的任务类型  
-<img src="" />  
+<img src="http://xuhengfei.com/assets/images/articles/zeus/dev-center-new.png" />  
 同时也可以创建文件夹，对不同的任务进行分类整理  
   * <span id="sec2-share">共享文档</span>  
 文档中心默认有2个目录，分别是个人文档和共享文档  
@@ -35,15 +35,16 @@
   * <span id="sec2-script">脚本运行</span>  
 假如创建了一个可执行的文档(即任务)，打开文档后，在上方会展示工具条，显示了你可以操作的按钮  
 如下图所示：(不同的文档，展示的工具条内容会有所不同)  
-<img src=""/>  
+<img src="http://xuhengfei.com/assets/images/articles/zeus/dev-center-toolbar.png"/>  
 点击运行按钮后，下方会弹出控制台日志面板  
-<img src="" />  
+<img src="http://xuhengfei.com/assets/images/articles/zeus/dev-center-log.png" />  
 通过日志面板可以观察任务的出错日志，进度，状态等等  
 脚本没有单独的保存按钮，所有的改动都会自动保存  
 最下方有**调试历史**的标签，点击可以查看这个文档的所有历史运行日志  
 
   * <span id="sec2-hive">Hive可视化</span>  
 开发中心的最右边是Hive可视化的表管理  
+<img src="http://xuhengfei.com/assets/images/articles/zeus/dev-center-hive.png" />  
 搜索栏为空时不展示内容，在搜索栏内键入2个以上字母，即会进行表搜索展示  
 可以选中某表，可以查看基本数据，字段信息，分区信息，进行数据预览，数据下载等等功能  
 * <span id="section3">调度中心</span>
